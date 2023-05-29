@@ -13,7 +13,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "viem": "^0.3.37",
-    "wagmi": "0.6.0",
+    "wagmi": "0.6.8",
     "ethers": "5.7.1"
   },
   "devDependencies": {
